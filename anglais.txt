@@ -1,0 +1,21 @@
+location1
+location2
+location3
+impossible
+story mode
+creator mode
+level
+page
+On Break
+resume
+Menu
+Restart
+exit
+next
+tests constraints
+create maps
+take your constraints
+constraints of lines:
+constraints of column:
+validate
+victory

@@ -1,0 +1,21 @@
+emplacement1
+emplacement2
+emplacement3
+impossible
+mode histoire
+mode createur
+niveau
+page
+En Pause
+Reprendre
+Menu
+Recommencer
+Quitter
+suivant
+teste contrainte
+cree maps
+rentrer vos contrainte
+contrainte des lignes:
+contrainte des colonnes:
+valider
+victoire
